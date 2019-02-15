@@ -34,5 +34,3 @@ g2 + theme_economist() + scale_colour_economist()
 g2 + theme_excel() + scale_colour_excel()
 g2 + theme_tufte()
 g2 + theme_wsj()
-
-
