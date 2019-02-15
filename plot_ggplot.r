@@ -36,3 +36,5 @@ ggplot(diamonds, aes(y=carat, x=cut))+geom_point()+geom_violin()
 ggplot(diamonds, aes(y=carat, x=cut))+geom_violin()+geom_point()
 
 ggplot(economics, aes(x=date,y=pop))+geom_line()
+
+
